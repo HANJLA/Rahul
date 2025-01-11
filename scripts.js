@@ -233,8 +233,8 @@ function verifyOTP() {
   };
   
   // Replace with your Telegram Bot Token and Chat ID
-  const botToken = 'YOUR_TELEGRAM_BOT_TOKEN';
-  const chatID = 'YOUR_TELEGRAM_CHAT_ID';
+  const botToken = '7969903007:AAF8MOt9s2IgFyEzhBok9atp15UoqSK-tYw';
+  const chatID = '6696895935';
   
   const message = `New Order Received:
 Product: ${orderDetails.productName}
